@@ -1,0 +1,1 @@
+# Pratikler(Temel Kavramlar)
