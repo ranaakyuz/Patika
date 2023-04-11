@@ -1,1 +1,1 @@
-# Pratikler(Temel Kavramlar)
+# Pratikler ve Ödevler(Java 101)
